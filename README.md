@@ -1,0 +1,1 @@
+We will be creating a basic website that will display various recipes.
